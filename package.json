@@ -21,12 +21,13 @@
   "homepage": "https://github.com/hytStart/hyt-design#readme",
   "config": {
     "commitizen": {
-      "path": "node_modules/cz-conventional-changelog"
+      "path": "node_modules/cz-customizable"
     }
   },
   "devDependencies": {
     "commitizen": "^4.0.3",
-    "cz-conventional-changelog": "^3.0.2"
+    "cz-conventional-changelog": "^3.0.2",
+    "cz-customizable": "^6.2.0"
   },
   "dependencies": {
     "standard-version": "^7.0.0"
